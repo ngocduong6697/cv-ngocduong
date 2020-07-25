@@ -1,0 +1,1 @@
+This CV for work of Van Ngoc Duong
