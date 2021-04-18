@@ -408,11 +408,6 @@ i.fa.fa-music, i.fa.fa-book, i.fa.fa-plane, i.fa.fa-gamepad {
     text-align: left;    
 }
 
-.project-content:hover{
-    opacity: 0.5;
-    cursor: pointer;
-}
-
 .project-name h4{
     font-weight: bold;
     font-size: 20px;    
